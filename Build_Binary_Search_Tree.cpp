@@ -87,3 +87,12 @@ int main() {
 
 	return 0;
 }
+
+
+// Output:
+In-order Traversal
+1 2 3 4 5 7
+Pre-order Traversal
+5 1 3 2 4 7
+Post-order Traversal
+2 4 3 1 7 5
